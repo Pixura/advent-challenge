@@ -1,0 +1,12 @@
+{
+  "name": "advent-challenge",
+  "version": "1.0.0",
+  "description": "Minimal project to begin work on cracking the advent challenge.",
+  "main": "index.js",
+  "repository": "https://github.com/Pixura/advent-challenge",
+  "author": "Charles Crain",
+  "license": "MIT",
+  "dependencies": {
+    "eth-hd-wallet": "^0.5.1"
+  }
+}
